@@ -1,0 +1,3 @@
+[submodule "monopriv"]
+	path = monopriv
+	url = https://gitlab.com/kskarthik/monopriv.git
