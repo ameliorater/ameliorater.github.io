@@ -8,13 +8,17 @@
   </url>
   
   <url>
-    <loc>/my-first-post/</loc>
+    <loc>/resources/notes/</loc>
     <lastmod>2020-01-18T08:47:11+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/resources/</loc>
     <lastmod>2020-01-18T08:47:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
   </url>
   
   <url>
